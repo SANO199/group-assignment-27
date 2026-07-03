@@ -1,4 +1,4 @@
-# GYM Membership and Attendance Management System
+# GYM Membership and Attendance Management System.
 
 ## Group Members
 
@@ -10,7 +10,7 @@
 
 ## Project Description
 
-This project is a **Gym Membership and Attendance Management System** developed using **Oracle SQL and PL/SQL**. It is designed to manage gym members and record their daily attendance efficiently. The system stores member information, tracks attendance records, and generates attendance reports.
+This project is a **Gym Membership and Attendance Management System** developed using **Oracle SQL and PL/SQL**. It is designed to manage gym members and record their daily attendance efficiently. The system stores member information, tracks attendance records, and  generates attendance reports.
 
 ## Features
 
